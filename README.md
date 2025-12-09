@@ -26,10 +26,3 @@ Currently learning blockchain, SaaS development, and system automation.
 ![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardd-f&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardd-f&layout=compact&theme=tokyonight)
-
----
-
-### 🌐 Connect with me
-Instagram: @yourusername  
-LinkedIn: your link  
-Email: your@email.com
