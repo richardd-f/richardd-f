@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Felix 👋
 
-<!--
-**richardd-f/richardd-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer passionate about building apps with Node.js, React, Kotlin, and IoT.  
+Currently learning blockchain, SaaS development, and system automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+**Backend:** Node.js, Express, Prisma, PHP, Laravel  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Mobile:** Kotlin Jetpack  
+**Database:** MySQL, PostgreSQL  
+**Other:** Docker, ESP32, IoT Systems
+
+---
+
+### 📌 Featured Projects
+- **LocalChat** – Offline messaging app using local network  
+- **Smart Home Nova** – IoT-based home automation system  
+- **Crypto Bot** – Tracks new BSC/CoinGecko listings + CEX alerts  
+- **YouTube Livestream Scheduler SaaS** – Automates live streams
+
+---
+
+### 📊 GitHub Stats
+![Felix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=richardd-f&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardd-f&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect with me
+Instagram: @yourusername  
+LinkedIn: your link  
+Email: your@email.com
